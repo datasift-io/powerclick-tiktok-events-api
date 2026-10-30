@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-tiktok-events-api#readme"
 versions:
+  - sha: 009cd08ff04843b9fe4f10a3b14711f2611c06c2
+    changeNotes: Adds the PowerClick icon.
   - sha: bded36c4ad4620199d33832d823891d6c6d0c14f
     changeNotes: Initial release.
